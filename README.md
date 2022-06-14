@@ -13,6 +13,11 @@
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [利用GitHub Action自动发布你的静态资源到npm](https://bowenyoung.cn/posts/action-npm/)
+- [Shields.io使用之添加自定义图标](https://bowenyoung.cn/posts/shield/)
+- [GitHub个人资料页美化](https://bowenyoung.cn/posts/githubBeautify/)
+- [SQL注入新手教程（二）——基于报错的注入](https://bowenyoung.cn/posts/sqli2/)
+- [SQL注入新手教程（一）——sqli-labs靶场搭建](https://bowenyoung.cn/posts/sqli1/)
 <!-- BLOG-POST-LIST:END -->
 [![MyWebsite](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bowenyoung.cn)
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://bowenyoung.cn/atom.xml)
