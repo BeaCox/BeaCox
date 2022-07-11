@@ -19,7 +19,8 @@
 - [利用GitHub Action自动发布你的静态资源到npm](https://bowenyoung.cn/posts/action-npm/)
 - [Shields.io使用之添加自定义图标](https://bowenyoung.cn/posts/shield/)
 <!-- BLOG-POST-LIST:END -->
-[![MyWebsite](	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bowenyoung.cn)
+[![MyHomepage](	https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://i.bowenyoung.cn)
+[![MyBlog](	https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=Hexo&logoColor=white)](https://bowenyoung.cn)
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://bowenyoung.cn/atom.xml)
 
 ## How to Reach Me
