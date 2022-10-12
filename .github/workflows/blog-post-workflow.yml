@@ -14,7 +14,7 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://bowenyoung.cn/rss.xml"
+          feed_list: "https://bowenyoung.cn/atom.xml"
           template: "- `$date` | [$title]($url)  $newline"
           date_format: yyyy-mm-dd
           tag_post_pre_newline: true
