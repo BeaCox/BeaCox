@@ -14,7 +14,7 @@
 <!-- BLOG-POST-LIST:END -->
 [![MyHomepage](	https://img.shields.io/badge/Homepage-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://i.bowenyoung.cn)
 [![MyBlog](	https://img.shields.io/badge/Blog-0E83CD?style=for-the-badge&logo=Hexo&logoColor=white)](https://bowenyoung.cn)
-[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://bowenyoung.cn/rss.xml)
+[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://bowenyoung.cn/atom.xml)
 
 ## How to Reach Me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:yys958257943@gmail.com)](mailto:yys958257943@gmail.com)
