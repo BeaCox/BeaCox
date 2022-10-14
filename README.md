@@ -5,7 +5,7 @@
 <h3 align="center">My skills:</h3> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,vim,c,cpp,cmake,md,html,css,js,tailwind,vue,docker,git,githubactions,mysql,heroku,matlab,arduino,ps,pr&perline=7" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,vim,c,cpp,cmake,html,css,js,tailwind,vue,docker,git,githubactions,mysql,matlab,arduino,ps,pr&perline=7" />
   </a>
 </p>
 
