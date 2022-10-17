@@ -1,4 +1,4 @@
-Hi👋, I’m Bowen Young.
+Hi👋, I’m BeaCox.
 <br />**Information Security** undergraduate @SJTU-21.
 + [My Blog](https://bowenyoung.cn)
 + [My Telegram](https://t.me/BowenYoung)
